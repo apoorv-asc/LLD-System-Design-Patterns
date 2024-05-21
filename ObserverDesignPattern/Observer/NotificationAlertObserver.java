@@ -1,4 +1,4 @@
-package ObserverDesignPatterm.Observer;
+package ObserverDesignPattern.Observer;
 
 public interface NotificationAlertObserver {
 	

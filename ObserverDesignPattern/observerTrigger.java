@@ -1,10 +1,10 @@
-package ObserverDesignPatterm;
+package ObserverDesignPattern;
 
-import ObserverDesignPatterm.Observable.IPhoneObservableImp;
-import ObserverDesignPatterm.Observable.StockObservable;
-import ObserverDesignPatterm.Observer.EmailAlertObserver;
-import ObserverDesignPatterm.Observer.MobileAlertObserver;
-import ObserverDesignPatterm.Observer.NotificationAlertObserver;
+import ObserverDesignPattern.Observable.IPhoneObservableImp;
+import ObserverDesignPattern.Observable.StockObservable;
+import ObserverDesignPattern.Observer.EmailAlertObserver;
+import ObserverDesignPattern.Observer.MobileAlertObserver;
+import ObserverDesignPattern.Observer.NotificationAlertObserver;
 
 public class observerTrigger {
 
