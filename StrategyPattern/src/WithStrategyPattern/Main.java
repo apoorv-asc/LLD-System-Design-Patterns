@@ -7,7 +7,7 @@ public class Main {
 		vh.drive();
 		
 		Vehicle vh2 = new SportsVehicle();
-		vh2.drive();
+		vh2 .drive();
 		
 	}
 }

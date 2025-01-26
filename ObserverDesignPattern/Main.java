@@ -1,12 +1,12 @@
 package ObserverDesignPattern;
 
-import ObserverDesignPattern.Observable.IPhoneObservableImp;
-import ObserverDesignPattern.Observable.StockObservable;
-import ObserverDesignPattern.Observer.EmailAlertObserver;
-import ObserverDesignPattern.Observer.MobileAlertObserver;
-import ObserverDesignPattern.Observer.NotificationAlertObserver;
+import ObserverDesignPattern.src.Observable.IPhoneObservableImp;
+import ObserverDesignPattern.src.Observable.StockObservable;
+import ObserverDesignPattern.src.Observer.EmailAlertObserver;
+import ObserverDesignPattern.src.Observer.MobileAlertObserver;
+import ObserverDesignPattern.src.Observer.NotificationAlertObserver;
 
-public class observerTrigger {
+public class Main {
 
 	public static void main(String ar[]) {
 		StockObservable iPhone = new IPhoneObservableImp();
